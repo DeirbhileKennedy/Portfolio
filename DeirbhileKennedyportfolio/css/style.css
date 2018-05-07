@@ -636,8 +636,8 @@ width: 282px;
 .c2,
 .c3
 {
-float: right;
-
+float: left;
+margin-right: 24px;
 }
 	
 
