@@ -6,4 +6,4 @@ IXD103
 Portfolio 
 -----------
 
-[Website](https://deirbhilekennedy.github.io/Portolio/DeirbhileKennedyportfolio/index.html)
+[Website](https://deirbhilekennedy.github.io/DeirbhileKennedy/Portfolio/blob/gh-pages/DeirbhileKennedyportfolio/index.html)
